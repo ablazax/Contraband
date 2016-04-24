@@ -1,0 +1,8 @@
+name: Contraband
+main: me.menexia.contraband.Contraband
+version: 0.793
+author: MeneXia
+commands:
+    contraband:
+        description: Contraband Base Command
+        usage: In the console, type <command> configure to begin plugin configuration.
